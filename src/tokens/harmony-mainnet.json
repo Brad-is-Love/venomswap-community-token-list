@@ -142,5 +142,13 @@
     "name": "Fraterium",
     "decimals": 18,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/FRATE.png"
-  }
+  },
+    {
+    "chainId":1666600000,
+    "address":"0x6E85399c21A62D9dc555c2C9b46c4854dD2416c5",
+    "symbol":"GTC",
+    "name":"Good Times Coin",
+    "decimals":18,
+    "logoURI":"https://i.postimg.cc/5NqYHMzs/GTC.jpg"
+  },
 ]
